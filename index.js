@@ -15,4 +15,7 @@ GIT COMMANDS
   git status
   git commit -m "feat/fix: message"
 
+  git branch
+  git checkout master
+
 */

@@ -17,5 +17,8 @@ GIT COMMANDS
 
   git branch
   git checkout master
+  git remote 
+  git remote add origin LINKS
+  git push origin master
 
 */
